@@ -20,6 +20,7 @@
 - [jaywhen](https://github.com/jaywhen)
 - anacarolinarodrigues
 - CSiLLaFM
+- [Rachel M](https://github.com/GitItRachel)
 - [NoneBack](https://github.com/noneback)
 - [S-majer](https://github.com/s-majer)
 - [ChenPengf](https://github.com/ChenPengf)
